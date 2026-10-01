@@ -1,0 +1,3 @@
+https://eraktkosh.mohfw.gov.in/eraktkoshPortal/ - reference govt platform
+https://search.r-project.org/CRAN/refmans/FFTrees/html/blood.html - uc-BTSC ml repo
+https://github.com/drivendataorg/blood-donations - testing and evaluation 
